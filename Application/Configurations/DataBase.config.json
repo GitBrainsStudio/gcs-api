@@ -1,0 +1,3 @@
+{
+    "sqlite-connection-string" : "sqlite:///Infrastucture/SQLite/DataBase/BD.db"
+}

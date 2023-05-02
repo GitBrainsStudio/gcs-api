@@ -1,0 +1,4 @@
+{
+    "jwt-secret-key" : "gcs-jwt-secret-key",
+    "jwt-algorithm" : "HS256"
+}
